@@ -1,0 +1,40 @@
+---
+title: "16 things I learned in Predictive Modeling"
+author: "Kyle Fowler"
+date: March 4, 2024
+---
+
+# Week 1:
+- Creating a file such as this one! Using Rmarkdown in R notebook has been great to learn as I've previously used Jupyter Notebooks but wasn't aware of Rmarkdown in R.
+- Installing packages with CRAN by setting CRAN mirrors and making package changes in R 4.3.2
+
+# Week 2:
+- Using summary statistics in R to explore data. This function allows us to view various components of data and helps with spotting problems.
+- Loading data into R and spotting problems using visualization to examine relationships between variables.
+
+# Week 3:
+- Understanding Linear Regression and how the formula works, in addition to running the code for this model.
+- Visualizing the predictions and assessing the model by using RMSE (root mean squared error).
+
+# Week 4:
+- Learning the difference between classification and regression models.
+- Understanding Logistic Regression, when to use it, and the code needed to create a model using this method.
+
+# Week 5:
+- Learned more about GLMs and how they work. GLMs are basically Linear Regression models, however, they can accept any distribution of data when creating the model.
+- Also learned about various types of distribution and ran GLMs with these types of distributions (Poisson, Gamma, etc.)
+
+# Week 6:
+- Learned how to create decision trees in R, by plotting the tree and pruning it.
+- Learned how to create the more powerful random forest in R, building a model, computing the MSE, and visualizing the importance of each variable on the random forest.
+- Continuing along with decision trees and random forests, we also learned how to model the powerful GBM and other boosting methods.
+
+# Week 7:
+- Week 7 was focused on K-means clustering. We learned how to do this type of modeling and finding and visualizing the optimal clusters needed in a k-means clustering model.
+- I also learned some important uses of unsupervised algorithms used in real-world applications, such as finding association rules and fraud detections.
+
+# Week 8:
+- This final week I learned about the differences between Git and GitHub, and how they can be used in conjunction with one another.
+- I also learned about various Git commands, such as git commit, git clone, and more. Part of my learnings in GitHub also involve learning how to create the repository for this code file!
+
+All in all, this has been a great class where I learned so many different things, and I really enjoyed being able to practice coding each type of model.
